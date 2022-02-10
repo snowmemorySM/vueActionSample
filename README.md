@@ -1,5 +1,7 @@
 # coding-workshop
 
+## Vue.js 코딩 공작소 테스트 페이지
+
 ## Project setup
 ```
 npm install
